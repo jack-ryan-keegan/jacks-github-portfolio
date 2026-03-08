@@ -32,6 +32,10 @@ body {
 	line-height: 1;
 }
 
+#two {
+    background-color: #b74e91;
+}
+
 ol, ul {
 	list-style: none;
 }
